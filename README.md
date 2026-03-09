@@ -1,13 +1,13 @@
 <div align="center">
 
 # Sagnik Bhattacharya 👋
-### Tech Consultant · Founder of Coding Liquids · Udemy Instructor 
+### Udemy Instructor · Tech Consultant · Founder of Coding Liquids
 
 **I teach developers how to build real things — with real projects, real tools, and no fluff.**
 
 [![Website](https://img.shields.io/badge/codingliquids.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codingliquids.com)
 [![Personal Site](https://img.shields.io/badge/sagnikbhattacharya.com-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://sagnikbhattacharya.com)
-[![Udemy](https://img.shields.io/badge/Udemy_Courses-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/sagnik-bhattacharya-8/)
+[![Udemy](https://img.shields.io/badge/Udemy_Courses-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/sagnik-bhattacharya-5/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-bhattacharya-916b9463)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sagnikteaches)
 
@@ -41,28 +41,12 @@ Real-world project: **Giggle Grid** — a full-featured joke app built from scra
 
 ---
 
-### 🔜 Launching Soon
+### 🔜 Up Next
 
 #### 📊 Complete Excel Guide with AI Integration
-A modern, comprehensive Microsoft Excel course designed for professionals and aspiring data analysts. Covers everything from core Excel fundamentals to advanced formulas, pivot tables, data visualisation, and AI-powered productivity workflows.
+A modern, comprehensive Microsoft Excel course for professionals and aspiring data analysts. Covers core Excel fundamentals, advanced formulas, pivot tables, data visualisation, and AI-powered productivity workflows.
 
 *Launching mid-2026 on Udemy, then exclusively on [Coding Liquids](https://codingliquids.com).*
-
----
-
-### 🗺️ Coming Up — Full Course Roadmap
-
-| Course | Focus |
-|--------|-------|
-| **SQL** | Databases, queries, joins, real-world data |
-| **Microsoft Power BI** | Data visualisation, dashboards, DAX |
-| **Python (80+ projects)** | Scripting, automation, Flask, Django, ML |
-| **Cybersecurity with AI** | Threat detection, tools, AI integration |
-| **Ethical Hacking with AI** | Penetration testing, offensive security |
-| **Web Development with AI** | Full-stack, modern frameworks, AI tooling |
-| **WordPress** | Site building, plugins, deployment |
-
-All courses follow the same project-first approach — you build, not just watch.
 
 ---
 
@@ -110,16 +94,6 @@ All courses follow the same project-first approach — you build, not just watch
 | [`budget_app_complete_project`](https://github.com/sagnik150699/budget_app_complete_project) | Flutter | Full budget app · state management |
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Sagnik Bhattacharya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnik150699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik150699&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
