@@ -45,7 +45,7 @@ Real-world project: **Giggle Grid** — a full-featured joke app built from scra
 #### 📊 Complete Excel Guide with AI Integration
 A modern, comprehensive Microsoft Excel course for professionals and aspiring data analysts. Covers core Excel fundamentals, advanced formulas, pivot tables, data visualisation, and AI-powered productivity workflows.
 
-*Launching mid-2026 on Udemy, then exclusively on [Coding Liquids](https://codingliquids.com).*
+*Launching mid-2026 on Udemy*
 
 ---
 
