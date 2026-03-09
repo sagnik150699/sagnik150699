@@ -21,7 +21,7 @@ Founder of **[Coding Liquids](https://codingliquids.com)** · Teaching tech to *
 
 My teaching philosophy is simple: every concept needs a *what → why → how* breakdown, and every course needs real projects at its core. No toy examples, no hand-waving — just build it.
 
-- 🎓 **B.Sc. in Computer Science & Engineering**
+- 🎓 **B.Tech. in Computer Science & Engineering**
 - 📍 Based in **Kolkata, India**
 - 🎙️ Conducted developer workshops at universities across India (2018–2020)
 - 🌍 Students in **175+ countries** across all courses
