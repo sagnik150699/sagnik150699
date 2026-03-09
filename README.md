@@ -5,8 +5,8 @@
 
 **I teach developers how to build real things — with real projects, real tools, and no fluff.**
 
-[![Website](https://img.shields.io/badge/codingliquids.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codingliquids.com)
-[![Personal Site](https://img.shields.io/badge/sagnikbhattacharya.com-1a1a2e?style=for-the-badge&logo=firefox&logoColor=white)](https://sagnikbhattacharya.com)
+[![Website](https://img.shields.io/badge/codingliquids.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codingliquids.com)
+[![Personal Site](https://img.shields.io/badge/sagnikbhattacharya.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagnikbhattacharya.com)
 [![Udemy](https://img.shields.io/badge/Udemy_Courses-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/sagnik-bhattacharya-5/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-bhattacharya-916b9463)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sagnikteaches)
@@ -21,7 +21,6 @@ Founder of **[Coding Liquids](https://codingliquids.com)** · Teaching tech to *
 
 My teaching philosophy is simple: every concept needs a *what → why → how* breakdown, and every course needs real projects at its core. No toy examples, no hand-waving — just build it.
 
-- 🎓 **B.Tech. in Computer Science & Engineering**
 - 📍 Based in **Kolkata, India**
 - 🎙️ Conducted developer workshops at universities across India (2018–2020)
 - 🌍 Students in **175+ countries** across all courses
