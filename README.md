@@ -31,8 +31,8 @@ My teaching philosophy is simple: every concept needs a *what → why → how* b
 
 ### ✅ Live Now
 
-#### 📱 Complete Flutter & Dart Development Course
-My flagship course — **30,000+ students across 175 countries**, one of the highest-earning Flutter courses on Udemy. Covers cross-platform mobile app development for Android, iOS, Web, and Desktop using Flutter and Dart.
+#### 📱 **[The Complete Flutter Guide: Build Android, iOS and Web apps](https://www.udemy.com/course/flutter-the-guide-to-build-android-ios-and-web-apps/?referralCode=0895EF14011CB08E80A0)**
+My flagship course — **30,000+ students across 175 countries**, one of the best Flutter courses on Udemy. Covers cross-platform mobile app development for Android, iOS, Web, and Desktop using Flutter and Dart.
 
 Topics include: Dart fundamentals, Flutter widgets, state management with Riverpod, navigation with Go Router, local storage with Hive, REST API integration with Dio, MVVM architecture, testing, and CI/CD.
 
