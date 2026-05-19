@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fsagnikbhattacharya.com%2Fsagnik-bhattacharya.png&amp;cx=292&amp;cy=64&amp;cw=456&amp;ch=456&amp;mask=circle&amp;output=png" alt="Sagnik Bhattacharya" width="180" height="180">
 </p>
 
 <div align="center">
@@ -11,6 +11,7 @@
 
 [![Website](https://img.shields.io/badge/codingliquids.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codingliquids.com)
 [![Personal Site](https://img.shields.io/badge/sagnikbhattacharya.com-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagnikbhattacharya.com)
+[![Tutorials](https://img.shields.io/badge/Tutorials-sagnikbhattacharya.com%2Fblog-2563eb?style=for-the-badge&logo=readme&logoColor=white)](https://sagnikbhattacharya.com/blog)
 [![Udemy](https://img.shields.io/badge/Udemy_Courses-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/sagnik-bhattacharya-5/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-bhattacharya-916b9463)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sagnikteaches)
@@ -28,6 +29,18 @@ My teaching philosophy is simple: every concept needs a *what → why → how* b
 - 📍 Based in **Kolkata, India**
 - 🎙️ Conducted developer workshops at universities across India (2018–2020)
 - 🌍 Students in **175+ countries** across all courses
+
+---
+
+## 🧭 Tutorial Hubs
+
+Start here for practical tutorials on the topics I teach and build with:
+
+| Hub | What you'll find |
+|-----|------------------|
+| [Flutter Development Guide](https://sagnikbhattacharya.com/blog/flutter-guide) | Flutter architecture, state management, performance, testing, responsive UI, routing, web, and upgrade guides |
+| [Complete Excel Guide](https://sagnikbhattacharya.com/blog/excel-formulas-guide) | Excel formulas, lookups, dynamic arrays, dashboards, Power Query, Power Pivot, and Excel with AI workflows |
+| [AI Tools & Development Guide](https://sagnikbhattacharya.com/blog/ai-guide) | AI tools, coding workflows, local models, app development patterns, RAG, agents, and prompt engineering |
 
 ---
 
