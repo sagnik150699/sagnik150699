@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fsagnikbhattacharya.com%2Fsagnik-bhattacharya.png&amp;cx=292&amp;cy=64&amp;cw=456&amp;ch=456&amp;mask=circle&amp;output=png" alt="Sagnik Bhattacharya" width="180" height="180">
+  <img src="assets/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180" height="180">
 </p>
 
 <div align="center">
@@ -27,26 +27,25 @@ Founder of **[Coding Liquids](https://codingliquids.com)** (est. 2018) · Teachi
 
 My teaching philosophy is simple: every concept needs a *what → why → how* breakdown, and every course needs real projects at its core. No toy examples, no hand-waving — just build it.
 
-- 📍 Based in **Kolkata, India**
-- 🏆 **Top Rated** instructor on Udemy — teaching developers since 2018
+- 🏆 **Top Rated** instructor on Udemy — teaching developers since 2018, now also on [Coding Liquids](https://codingliquids.com)
 - 🎙️ Conducted developer workshops at universities across India (2018–2020), then took Coding Liquids fully online in 2020
 - 🌍 Students in **175+ countries** across all courses
-- ✍️ **1,100+ tutorials and guides** on [sagnikbhattacharya.com/blog](https://sagnikbhattacharya.com/blog) — Flutter, Excel, AI tools, and AI for small businesses
+- ✍️ **1,100+ tutorials** on [sagnikbhattacharya.com/blog](https://sagnikbhattacharya.com/blog) — Flutter, Excel, AI tools, and AI for business owners
 - 🌾 Built **[Farm Advisor AI](https://farmadvisorai.codingliquids.com)** and **[Kisan Salahkaar](https://kisansalahkaar.codingliquids.com)** — multilingual AI farm-advisory platforms
-- 🤖 Work one-to-one with small businesses on **AI implementation and workflow automation**
+- 🤖 One-to-one **AI implementation consultation** for small and medium-sized businesses and self-employed people
 
 ---
 
 ## 🧭 Tutorial Hubs
 
-Start here for practical tutorials on the topics I teach and build with — **260+ tutorials** across three hubs, plus a growing library of AI guides for business owners:
+Start here for practical tutorials on the topics I teach and build with — **1,100+ tutorials** across three hubs plus the AI for Your Business collection:
 
 | Hub | What you'll find |
 |-----|------------------|
 | [Flutter Development Guide](https://sagnikbhattacharya.com/blog/flutter-guide) | **120+ tutorials** — app architecture, state management (Provider vs Riverpod vs BLoC), performance, testing, responsive UI, go_router and deep linking, Flutter web, Play Store & App Store publishing, and upgrade guides |
-| [Complete Excel Guide](https://sagnikbhattacharya.com/blog/excel-formulas-guide) | **65+ tutorials** — VLOOKUP vs XLOOKUP, dynamic arrays (GROUPBY, PIVOTBY), LET & LAMBDA, pivot tables, dashboards, Power Query, Power Pivot, and Excel with ChatGPT, Copilot, and Claude |
-| [AI Tools & Development Guide](https://sagnikbhattacharya.com/blog/ai-guide) | **70+ tutorials** — Claude Code in VS Code and Android Studio, running local models (Gemma), RAG apps, MCP servers, AI agents, AI app architecture, AI video generation, and prompt engineering |
-| [AI for Small Business](https://sagnikbhattacharya.com/blog) | **200+ plain-English guides** for owners — what AI really costs, ROI, first pilots, usage policies, staff training, security and compliance, plus industry playbooks for restaurants, salons, hotels, retail, e-commerce, photographers, and more |
+| [Complete Excel Guide](https://sagnikbhattacharya.com/blog/excel-formulas-guide) | **70+ tutorials** — VLOOKUP vs XLOOKUP, dynamic arrays (GROUPBY, PIVOTBY), LET & LAMBDA, pivot tables, dashboards, Power Query, Power Pivot, and Excel with ChatGPT, Claude, Copilot, and Gemini |
+| [AI Tools & Development Guide](https://sagnikbhattacharya.com/blog/ai-guide) | **100+ tutorials** — Claude Code in VS Code and Android Studio, Claude frontier models, running local models (Gemma), RAG apps, MCP servers, AI agents, AI app architecture, AI video generation (Gemini Omni, Seedance), and prompt engineering |
+| [AI for Your Business](https://sagnikbhattacharya.com/blog) | **850+ plain-English tutorials** for owners, not developers — what AI really costs, ROI, first pilots, usage policies, security and compliance, plus industry playbooks for restaurants, salons, hotels, retail, e-commerce, photographers, and more. Every one links to the 1:1 consultation |
 
 ---
 
@@ -63,7 +62,7 @@ Licensable, white-label AI farm-advisory platforms for farmers, governments, NGO
 
 ---
 
-## 📚 Courses on Udemy
+## 📚 Courses
 
 ### ✅ Live Now
 
@@ -74,18 +73,16 @@ Topics include: Dart fundamentals, Flutter widgets, state management with Riverp
 
 Real-world project: **Giggle Grid** — a full-featured joke app built from scratch.
 
-Also available directly on **[Coding Liquids](https://www.codingliquids.com/courses/Flutter-Course-Learn-to-Build-Android-iOS-and-Web-apps-637b978ee4b08f9aaa22d2cb)** with lifetime access and a LinkedIn-shareable certificate.
+Also available directly on **[Coding Liquids](https://codingliquids.com/courses/flutter-course)**, co-taught with Paulina Knop, with lifetime access and a LinkedIn-shareable certificate.
+
+#### 📊 **[The Complete Excel Course with AI Integration](https://codingliquids.com/courses/excel-ai-course)**
+Co-taught with **Virginia Thorn**, Primetime Emmy Award winner — **16 hours** of hands-on lessons on the workbooks companies actually run on: budget vs actual dashboards, clean HR data, Power Query and DAX models, macros and VBA, with Copilot, ChatGPT, and Claude built into the workflow. The first lessons are free to preview.
 
 ---
 
 ### 🔜 Up Next
 
-#### 📊 Complete Excel Guide with AI Integration
-From beginner to advanced Excel workflows, supercharged with AI. Master formulas, pivot tables, data analysis, and charts, then automate your spreadsheet work with ChatGPT, Claude, Copilot, and Gemini. Built for professionals and aspiring data analysts.
-
-*Coming soon on Udemy*
-
-Also in the pipeline at Coding Liquids: **Python, SQL, Power BI, and Cybersecurity**.
+In the pipeline at Coding Liquids: **Python, SQL, Power BI, and Cybersecurity**.
 
 ---
 
@@ -152,7 +149,7 @@ Also in the pipeline at Coding Liquids: **Python, SQL, Power BI, and Cybersecuri
 
 Founded in 2018 as in-person workshops, fully online since 2020. Expert-led, project-based courses in app development, data tools, and AI-integrated programming — built on three principles: **build first**, **what / why / how**, and **production-grade**. Every course comes with lifetime access, a verifiable LinkedIn-shareable certificate, and a dedicated support team.
 
-The team includes **Virginia Thorn** (Emmy Award winner, Excel with AI) and **Paulina Knop** (Flutter instructor and curriculum designer).
+The team includes **Virginia Thorn** (Primetime Emmy Award winner, Excel with AI) and **Paulina Knop** (Flutter instructor and curriculum designer).
 
 [![Coding Liquids on YouTube](https://img.shields.io/badge/YouTube-@codingliquids-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@codingliquids)
 [![Coding Liquids on Instagram](https://img.shields.io/badge/Instagram-@codingliquids-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codingliquids/)
@@ -164,18 +161,14 @@ The team includes **Virginia Thorn** (Emmy Award winner, Excel with AI) and **Pa
 ## 🤝 Work With Me
 
 ### 🤖 AI Implementation Consultation
-One-to-one, for small business owners, solo founders, professional-services firms, e-commerce brands, and non-profits. The reporting that eats a Friday afternoon, the support inbox nobody gets to, the spreadsheet only one person understands, quotes and proposals, document drafting, data entry between tools — these are the jobs I automate with AI inside the tools you already run.
+One-to-one, for small and medium-sized businesses, self-employed people, startups, and non-profits that want AI doing useful work. On the first call I look at where your week goes, which tools you already run, and which jobs are worth handing to AI first — so you leave knowing what AI you can actually use in your business, not sitting through a lesson on how AI works.
 
-**How it works:** you tell me what slows you down, we scope it on a call, I build or integrate it, and I train your team to run it. Available as a single consultation or as ongoing support through build and rollout.
+Most small businesses don't need a data team or a big AI budget. They need the right two or three things automated first: the reporting that eats a Friday afternoon, the support inbox nobody gets to, the spreadsheet only one person understands. I find those jobs, put AI on them — workflow automation, AI inside the tools you already use, or a plain-English plan for what to set up first — and hand over something your team can run. No agency, no hand-off, no sales team.
 
-### 🏫 Training, Consulting & Licensing
-- **Corporate training** and **technical consulting** in Flutter, mobile architecture, and Python
-- **Private and white-label deployments** of Farm Advisor AI and Kisan Salahkaar for governments, NGOs, cooperatives, and agri organisations
-
-📬 [Book a 1:1 call](https://sagnikbhattacharya.com/contact) · [Services](https://sagnikbhattacharya.com/services) · [codingliquids.com](https://codingliquids.com)
+📬 [Book a 1:1 call with me](https://sagnikbhattacharya.com/contact) · [Services](https://sagnikbhattacharya.com/services) · [codingliquids.com](https://codingliquids.com)
 
 ---
 
 <div align="center">
-<sub>Sagnik Bhattacharya · Udemy Instructor · AI Implementation Consultant · Kolkata, India · <a href="https://codingliquids.com">Coding Liquids</a></sub>
+<sub>Sagnik Bhattacharya · Udemy Instructor · AI Implementation Consultant · <a href="https://codingliquids.com">Coding Liquids</a></sub>
 </div>
